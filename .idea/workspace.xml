@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="258117a8-eebf-4a00-90b0-9192a9c2da4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GestionVoiture-Service/src/main/java/fr/epita/consumer/VoitureConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-Entite/target/GestionVoiture-Entite-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Entite/target/GestionVoiture-Entite-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GestionVoiture-Persistance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Persistance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-Persistance/target/GestionVoiture-Persistance-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Persistance/target/GestionVoiture-Persistance-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-Service/target/GestionVoiture-Service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Service/target/GestionVoiture-Service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/src/main/java/fr/epita/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/src/main/java/fr/epita/application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/src/main/java/fr/epita/controller/VoitureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/src/main/java/fr/epita/controller/VoitureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/target/GestionVoiture-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/target/GestionVoiture-web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/target/classes/fr/epita/application/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/target/classes/fr/epita/application/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/target/classes/fr/epita/controller/VoitureController.class" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/target/classes/fr/epita/controller/VoitureController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionVoiture-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GestionVoiture-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
